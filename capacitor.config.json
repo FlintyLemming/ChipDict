@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Flinty速查箱",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
